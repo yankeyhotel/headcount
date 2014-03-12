@@ -103,13 +103,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -163,6 +156,7 @@
 	},
 	"file_history":
 	[
+		"/Users/yankeyhotel/Sites_meteor/headcount/.meteor/.gitignore",
 		"/Users/yankeyhotel/Sites/KellyWynne/Shopify/kellywynne-7132725/templates/product.gift-card.liquid",
 		"/Users/yankeyhotel/Sites/KellyWynne/Shopify/kellywynne-7132725/assets/script.js",
 		"/Users/yankeyhotel/Sites/KellyWynne/Shopify/kellywynne-7132725/layout/theme.liquid",
@@ -357,36 +351,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -446,7 +412,7 @@
 		[
 			[
 				"",
-				"~/Sites/GeoTag/geotag.sublime-project"
+				"~/Sites_meteor/fireball/fireball.sublime-project"
 			]
 		],
 		"width": 380.0
